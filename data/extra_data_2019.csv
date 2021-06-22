@@ -1,0 +1,238 @@
+rowID,studyID,arm_id,arm_des,data_source,abstractor,country,city,special_pop_description,special_pop,pub_year,author,doi,sample_collection_startyear,sample_collection_startmo,sample_collection_endyear,sample_collection_endmo,pop_vac,age_min,age_max,isolate_type,isolate_col,method_1,method_2,criteria,criteria_specify,drug_class,drug,total_isolates_drug,no_ns,no_res,no_int,no_sus,perc_ns,perc_res,perc_int,perc_sus
+,3296,,,1,B,China,Shenzhen,,0,2019,Shen,10.1186/s12879-019-4162-5,2015,6,2018,10,,0,15,1,2,1,,1,,penicillin,Penicillin,4,3,,,,0.75,,,
+,3296,,,1,B,China,Shenzhen,,0,2019,Shen,10.1186/s12879-019-4162-5,2015,6,2018,10,,0,15,1,2,1,,1,,tetracycline,Tetracycline,4,,3,,,,0.75,,
+,3296,,,1,B,China,Shenzhen,,0,2019,Shen,10.1186/s12879-019-4162-5,2015,6,2018,10,,0,15,1,2,1,,1,,SXT,SXT,4,,3,,,,0.75,,
+,3303,,,1,B,Bangladesh,,,0,2019,Malaker,10.1097/INF.0000000000002386,2013,6,2015,3,,0,18,1,2,1,,1,,penicillin,Penicillin,33,0,,,33,0,,,1
+,3303,,,1,B,Bangladesh,,,0,2019,Malaker,10.1097/INF.0000000000002386,2013,6,2015,3,,0,18,1,2,1,,1,,3gen_cephalosporin,Ceftriaxone,33,0,,,33,0,,,1
+,3303,,,1,B,Bangladesh,,,0,2019,Malaker,10.1097/INF.0000000000002386,2013,6,2015,3,,0,18,1,2,1,,1,,ciprofloxacin,Ciprofloxacin,33,2,,,31,0.060606061,,,0.939393939
+,3303,,,1,B,Bangladesh,,,0,2019,Malaker,10.1097/INF.0000000000002386,2013,6,2015,3,,0,18,1,2,1,,1,,macrolide,Erythromycin,33,17,,,16,0.515151515,,,0.484848485
+,3303,,,1,B,Bangladesh,,,0,2019,Malaker,10.1097/INF.0000000000002386,2013,6,2015,3,,0,18,1,2,1,,1,,SXT,SXT,33,26,,,7,0.787878788,,,0.212121212
+,3387,,,1,B,Poland,,,0,2019,Polkowska,10.1016/j.vaccine.2018.12.028,2005,1,2015,12,,0,5,1,2,2,,1,,penicillin,Penicillin,110,58,,,52,0.527272727,,,0.472727273
+,3395,,,1,B,Australia,,,0,2019,Shakur,10.1007/s12519-018-00221-3,2011,1,2014,8,,0,16,1,2,7,,3,,penicillin,Penicillin,12,0,,,12,0,,,1
+,3395,,,1,B,Australia,,,0,2019,Shakur,10.1007/s12519-018-00221-3,2011,1,2014,8,,0,16,1,2,7,,3,,vancomycin,Vancomycin,11,0,,,11,0,,,1
+,3395,,,1,B,Australia,,,0,2019,Shakur,10.1007/s12519-018-00221-3,2011,1,2014,8,,0,16,1,2,7,,3,,macrolide,Erythromycin,11,2,,,9,0.181818182,,,0.818181818
+,3395,,,1,B,Australia,,,0,2019,Shakur,10.1007/s12519-018-00221-3,2011,1,2014,8,,0,16,1,2,7,,3,,3gen_cephalosporin,Ceftriaxone,2,0,,,2,0,,,1
+,3395,,,1,B,Australia,,,0,2019,Shakur,10.1007/s12519-018-00221-3,2011,1,2014,8,,0,16,1,2,7,,3,,3gen_cephalosporin,Cefotaxime,1,0,,,1,0,,,1
+,3395,,,1,B,Australia,,,0,2019,Shakur,10.1007/s12519-018-00221-3,2011,1,2014,8,,0,16,1,2,7,,3,,tetracycline,Tetracycline,11,1,,,10,0.090909091,,,0.909090909
+,3396,,,1,B,China,,,0,2019,Yan,10.1016/j.vaccine.2018.12.021,2014,1,2016,1,,1,12,1,2,7,,1,,penicillin,Penicillin,51,,14,,,,0.274509804,,
+,3396,,,1,B,China,,,0,2019,Yan,10.1016/j.vaccine.2018.12.021,2014,1,2016,1,,1,12,1,2,7,,1,,penicillin,Amoxicillin,51,,4,,,,0.078431373,,
+,3396,,,1,B,China,,,0,2019,Yan,10.1016/j.vaccine.2018.12.021,2014,1,2016,1,,1,12,1,2,7,,1,,3gen_cephalosporin,Cefotaxime,51,,8,,,,0.156862745,,
+,3396,,,1,B,China,,,0,2019,Yan,10.1016/j.vaccine.2018.12.021,2014,1,2016,1,,1,12,1,2,7,,1,,macrolide,Erythromycin,51,,49,,,,0.960784314,,
+,3396,,,1,B,China,,,0,2019,Yan,10.1016/j.vaccine.2018.12.021,2014,1,2016,1,,1,12,1,2,7,,1,,lincosamides,Clindamycin,51,,42,,,,0.823529412,,
+,3396,,,1,B,China,,,0,2019,Yan,10.1016/j.vaccine.2018.12.021,2014,1,2016,1,,1,12,1,2,7,,1,,tetracycline,Tetracycline,51,,23,,,,0.450980392,,
+,3396,,,1,B,China,,,0,2019,Yan,10.1016/j.vaccine.2018.12.021,2014,1,2016,1,,1,12,1,2,7,,1,,vancomycin,Vancomycin,51,,0,,,,0,,
+,3396,,,1,B,China,,,0,2019,Yan,10.1016/j.vaccine.2018.12.021,2014,1,2016,1,,1,12,1,2,7,,1,,SXT,SXT,51,,32,,,,0.62745098,,
+,3443,A,1997,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,1997,,1997,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,31,,2,,,,0.065,,
+,3443,B,1998,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,1998,,1998,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,46,,2,,,,0.043,,
+,3443,C,1999,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,1999,,1999,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,32,,1,,,,0.031,,
+,3443,D,2000,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,2000,,2000,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,41,,5,,,,0.122,,
+,3443,E,2001,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,2001,,2001,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,43,,6,,,,0.14,,
+,3443,F,2002,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,2002,,2002,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,30,,3,,,,0.1,,
+,3443,G,2003,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,2003,,2003,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,38,,7,,,,0.184,,
+,3443,H,2004,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,2004,,2004,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,34,,6,,,,0.176,,
+,3443,I,2005,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,2005,,2005,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,39,,7,,,,0.179,,
+,3443,J,2006,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,2006,,2006,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,31,,7,,,,0.226,,
+,3443,K,2007,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,2007,,2007,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,65,,16,,,,0.246,,
+,3443,L,2008,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,2008,,2008,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,59,,18,,,,0.305,,
+,3443,M,2009,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,2009,,2009,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,71,,20,,,,0.285,,
+,3443,N,2010,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,2010,,2010,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,52,,18,,,,0.346,,
+,3443,O,2011,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,2011,,2011,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,63,,29,,,,0.46,,
+,3443,P,2012,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,2012,,2012,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,60,,23,,,,0.383,,
+,3443,Q,2013,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,2013,,2013,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,48,,10,,,,0.208,,
+,3443,R,2014,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,2014,,2014,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,77,,23,,,,0.299,,
+,3443,S,2015,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,2015,,2015,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,47,,14,,,,0.298,,
+,3443,T,2016,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,2016,,2016,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,46,,10,,,,0.217,,
+,3443,U,2017,1,B,Slovenia,,,0,2018,Kastrin,10.1016/j.jgar.2018.10.022,2017,,2017,,,0,18,1,2,1,2,1,,macrolide,Erythromycin,39,,5,,,,0.128,,
+,3465,A,PreVac,1,B,Iceland,,,0,2018,Quirk,10.1128/JCM.01046-18,2009,3,2011,3,,1,7,0,1,1,,2,,penicillin,Penicillin,991,149,,,,0.150353179,,,
+,3465,A,PreVac,1,B,Iceland,,,0,2018,Quirk,10.1128/JCM.01046-18,2009,3,2011,3,,1,7,0,1,1,,2,,macrolide,Erythromycin,991,,174,,,,0.175580222,,
+,3465,B,PostVac,1,B,Iceland,,,0,2018,Quirk,10.1128/JCM.01046-18,2012,3,2017,3,,1,7,0,1,1,,2,,penicillin,Penicillin,2029,338,,,,0.166584524,,,
+,3465,B,PostVac,1,B,Iceland,,,0,2018,Quirk,10.1128/JCM.01046-18,2012,3,2017,3,,1,7,0,1,1,,2,,macrolide,Erythromycin,2029,,278,,,,0.137013307,,
+,3207,A,2015,1,B,Japan,,,0,2019,Nakano,10.1016/j.vaccine.2019.12.022,2015,1,2015,,,0,15,1,2,1,,1,,penicillin,Penicillin,161,51,,,,0.316770186,,,
+,3207,A,2015,1,B,Japan,,,0,2019,Nakano,10.1016/j.vaccine.2019.12.022,2015,1,2015,,,0,15,1,2,1,,1,,3gen_cephalosporin,Cefotaxime,161,12,,,,0.074534161,,,
+,3207,A,2015,1,B,Japan,,,0,2019,Nakano,10.1016/j.vaccine.2019.12.022,2015,1,2015,,,0,15,1,2,1,,1,,macrolide,Erythromycin,161,149,,,,0.925465839,,,
+,3207,A,2015,1,B,Japan,,,0,2019,Nakano,10.1016/j.vaccine.2019.12.022,2015,1,2015,,,0,15,1,2,1,,1,,levofloxacin,Levofloxacin,161,1,,,,0.00621118,,,
+,3207,B,2016,1,B,Japan,,,0,2019,Nakano,10.1016/j.vaccine.2019.12.022,2016,,2016,,,0,15,1,2,1,,1,,penicillin,Penicillin,165,63,,,,0.381818182,,,
+,3207,B,2016,1,B,Japan,,,0,2019,Nakano,10.1016/j.vaccine.2019.12.022,2016,,2016,,,0,15,1,2,1,,1,,3gen_cephalosporin,Cefotaxime,165,8,,,,0.048484848,,,
+,3207,B,2016,1,B,Japan,,,0,2019,Nakano,10.1016/j.vaccine.2019.12.022,2016,,2016,,,0,15,1,2,1,,1,,macrolide,Erythromycin,165,147,,,,0.890909091,,,
+,3207,B,2016,1,B,Japan,,,0,2019,Nakano,10.1016/j.vaccine.2019.12.022,2016,,2016,,,0,15,1,2,1,,1,,levofloxacin,Levofloxacin,165,1,,,,0.006060606,,,
+,3207,C,2017,1,B,Japan,,,0,2019,Nakano,10.1016/j.vaccine.2019.12.022,2017,,2017,12,,0,15,1,2,1,,1,,penicillin,Penicillin,171,64,,,,0.374269006,,,
+,3207,C,2017,1,B,Japan,,,0,2019,Nakano,10.1016/j.vaccine.2019.12.022,2017,,2017,12,,0,15,1,2,1,,1,,3gen_cephalosporin,Cefotaxime,171,12,,,,0.070175439,,,
+,3207,C,2017,1,B,Japan,,,0,2019,Nakano,10.1016/j.vaccine.2019.12.022,2017,,2017,12,,0,15,1,2,1,,1,,macrolide,Erythromycin,171,154,,,,0.900584795,,,
+,3207,C,2017,1,B,Japan,,,0,2019,Nakano,10.1016/j.vaccine.2019.12.022,2017,,2017,12,,0,15,1,2,1,,1,,levofloxacin,Levofloxacin,171,0,,,,0,,,
+,3211,A,2008-2012,1,B,China,Taiwan,,0,2019,Huang,10.1016/j.jmii.2019.08.015,2008,1,2012,,,0,18,0,1,2,,1,,penicillin,Penicillin,330,301,112,189,29,0.912121212,0.339393939,0.572727273,
+,3211,A,2008-2012,1,B,China,Taiwan,,0,2019,Huang,10.1016/j.jmii.2019.08.015,2008,1,2012,,,0,18,0,1,2,,1,,SXT,SXT,330,269,,,61,0.815151515,,,
+,3211,A,2008-2012,1,B,China,Taiwan,,0,2019,Huang,10.1016/j.jmii.2019.08.015,2008,1,2012,,,0,18,0,1,2,,1,,3gen_cephalosporin,Ceftriaxone,330,4,,,326,0.012121212,,,
+,3211,A,2008-2012,1,B,China,Taiwan,,0,2019,Huang,10.1016/j.jmii.2019.08.015,2008,1,2012,,,0,18,0,1,2,,1,,macrolide,Erythromycin,330,323,,,7,0.978787879,,,
+,3211,A,2008-2012,1,B,China,Taiwan,,0,2019,Huang,10.1016/j.jmii.2019.08.015,2008,1,2012,,,0,18,0,1,2,,1,,vancomycin,Vancomycin,330,0,,,330,0,,,
+,3211,B,2013-2015,1,B,China,Taiwan,,0,2019,Huang,10.1016/j.jmii.2019.08.015,2013,,2015,,,0,18,0,1,2,,1,,penicillin,Penicillin,80,74,56,18,6,0.925,0.7,0.225,
+,3211,B,2013-2015,1,B,China,Taiwan,,0,2019,Huang,10.1016/j.jmii.2019.08.015,2013,,2015,,,0,18,0,1,2,,1,,SXT,SXT,80,55,,,25,0.6875,,,
+,3211,B,2013-2015,1,B,China,Taiwan,,0,2019,Huang,10.1016/j.jmii.2019.08.015,2013,,2015,,,0,18,0,1,2,,1,,3gen_cephalosporin,Ceftriaxone,80,6,,,74,0.075,,,
+,3211,B,2013-2015,1,B,China,Taiwan,,0,2019,Huang,10.1016/j.jmii.2019.08.015,2013,,2015,,,0,18,0,1,2,,1,,macrolide,Erythromycin,80,74,,,6,0.925,,,
+,3211,B,2013-2015,1,B,China,Taiwan,,0,2019,Huang,10.1016/j.jmii.2019.08.015,2013,,2015,,,0,18,0,1,2,,1,,vancomycin,Vancomycin,80,0,,,80,0,,,
+,3211,C,2016-2017,1,B,China,Taiwan,,0,2019,Huang,10.1016/j.jmii.2019.08.015,2016,,2017,12,,0,18,0,1,2,,1,,penicillin,Penicillin,39,39,20,19,0,1,0.512820513,0.487179487,
+,3211,C,2016-2017,1,B,China,Taiwan,,0,2019,Huang,10.1016/j.jmii.2019.08.015,2016,,2017,12,,0,18,0,1,2,,1,,SXT,SXT,39,22,,,17,0.564102564,,,
+,3211,C,2016-2017,1,B,China,Taiwan,,0,2019,Huang,10.1016/j.jmii.2019.08.015,2016,,2017,12,,0,18,0,1,2,,1,,3gen_cephalosporin,Ceftriaxone,39,4,,,35,0.102564103,,,
+,3211,C,2016-2017,1,B,China,Taiwan,,0,2019,Huang,10.1016/j.jmii.2019.08.015,2016,,2017,12,,0,18,0,1,2,,1,,macrolide,Erythromycin,39,34,,,5,0.871794872,,,
+,3211,C,2016-2017,1,B,China,Taiwan,,0,2019,Huang,10.1016/j.jmii.2019.08.015,2016,,2017,12,,0,18,0,1,2,,1,,vancomycin,Vancomycin,39,0,,,39,0,,,
+,3216,,,1,B,Ireland,,,0,2019,Corcoran,10.1097/INF.0000000000002549,2007,7,2018,6,,0,18,1,2,2,,1,,penicillin,Penicillin,16,11,,,,0.6875,,,
+,3216,,,1,B,Ireland,,,0,2019,Corcoran,10.1097/INF.0000000000002549,2007,7,2018,6,,0,18,1,2,2,,1,,macrolide,Erythromycin,16,12,,,,0.75,,,
+,3216,,,1,B,Ireland,,,0,2019,Corcoran,10.1097/INF.0000000000002549,2007,7,2018,6,,0,18,1,2,2,,1,,3gen_cephalosporin,Cefotaxime,16,9,,,,0.5625,,,
+,3240,,,1,B,United States of America,Ohio,,0,2019,Meropol,10.1093/jpids/piz068,2013,4,2014,2,,0,18,0,1,7,,1,,penicillin,Penicillin,38,7,,,,0.184210526,,,
+,3245,,,1,B,Morocco,,,0,2019,Dilagui,10.1016/j.arcped.2019.08.008,2017,2,2017,6,,0.166,1.5,0,1,1,,1,,penicillin,Penicillin,116,40,,,,0.344827586,,,
+,3249,,,1,B,China,Shenzhen,,0,2019,Bao,10.1016/j.vaccine.2019.09.069,2013,1,2017,5,,0,18,1,2,2,,1,,penicillin,Penicillin,94,17,12,5,77,0.180851064,0.127659575,0.053191489,0.819148936
+,3249,,,1,B,China,Shenzhen,,0,2019,Bao,10.1016/j.vaccine.2019.09.069,2013,1,2017,5,,0,18,1,2,2,,1,,penicillin,Amoxicillin,79,21,4,17,58,0.265822785,0.050632911,0.215189873,0.734177215
+,3249,,,1,B,China,Shenzhen,,0,2019,Bao,10.1016/j.vaccine.2019.09.069,2013,1,2017,5,,0,18,1,2,2,,1,,3gen_cephalosporin,Ceftriaxone,94,26,5,21,68,0.276595745,0.053191489,0.223404255,0.723404255
+,3249,,,1,B,China,Shenzhen,,0,2019,Bao,10.1016/j.vaccine.2019.09.069,2013,1,2017,5,,0,18,1,2,2,,1,,2gen_cephalosporin,Cefuroxime,94,80,78,2,14,0.85106383,0.829787234,0.021276596,0.14893617
+,3249,,,1,B,China,Shenzhen,,0,2019,Bao,10.1016/j.vaccine.2019.09.069,2013,1,2017,5,,0,18,1,2,2,,1,,macrolide,Erythromycin,94,90,90,0,4,0.957446809,0.957446809,0,0.042553191
+,3249,,,1,B,China,Shenzhen,,0,2019,Bao,10.1016/j.vaccine.2019.09.069,2013,1,2017,5,,0,18,1,2,2,,1,,vancomycin,Vancomycin,94,0,0,0,94,0,0,0,1
+,3249,,,1,B,China,Shenzhen,,0,2019,Bao,10.1016/j.vaccine.2019.09.069,2013,1,2017,5,,0,18,1,2,2,,1,,levofloxacin,Levofloxacin,94,0,0,0,94,0,0,0,1
+,3265,,,1,B,Niger,,,0,2019,Kourna Hama,10.1093/cid/ciz598,2010,,2016,,,0,5,1,2,7,,1,,penicillin,Penicillin,25,,4,,,,0.16,,
+,3265,,,1,B,Niger,,,0,2019,Kourna Hama,10.1093/cid/ciz598,2010,,2016,,,0,5,1,2,7,,1,,SXT,SXT,25,,18,,,,0.72,,
+,3265,,,1,B,Niger,,,0,2019,Kourna Hama,10.1093/cid/ciz598,2010,,2016,,,0,5,1,2,7,,1,,tetracycline,Tetracycline,25,,19,,,,0.76,,
+,3269,,,1,B,Ghana,Accra,,0,2019,Dayie,10.1186/s12887-019-1690-5,2016,9,2016,12,,0.5,5,0,1,1,,2,,penicillin,Penicillin,220,50,1,49,,0.227272727,0.004545455,0.222727273,
+,3269,,,1,B,Ghana,Accra,,0,2019,Dayie,10.1186/s12887-019-1690-5,2016,9,2016,12,,0.5,5,0,1,1,,2,,tetracycline,Tetracycline,219,140,138,2,,0.639269406,0.630136986,0.00913242,
+,3269,,,1,B,Ghana,Accra,,0,2019,Dayie,10.1186/s12887-019-1690-5,2016,9,2016,12,,0.5,5,0,1,1,,2,,SXT,SXT,220,167,135,32,,0.759090909,0.613636364,0.145454546,
+,3269,,,1,B,Ghana,Accra,,0,2019,Dayie,10.1186/s12887-019-1690-5,2016,9,2016,12,,0.5,5,0,1,1,,2,,macrolide,Erythromycin,220,35,24,11,,0.159090909,0.109090909,0.05,
+,3280,A,Invasive,1,B,China,Taiwan,,0,2019,Chen,10.1016/j.vaccine.2019.07.073,2012,,2016,,,0,18,1,2,2,,1,,penicillin,Penicillin,58,56,32,24,2,0.965517241,0.551724138,0.413793103,0.034482759
+,3280,B,Noninvasive,1,B,China,Taiwan,,0,2019,Chen,10.1016/j.vaccine.2019.07.073,2012,,2016,,,0,18,0,1,2,,1,,penicillin,Penicillin,412,397,191,206,15,0.963592233,0.463592233,0.5,0.036407767
+,3286,,,1,B,India,,,0,2019,Sutcliffe,10.1186/s12879-019-4254-2,2016,12,2017,7,,0.166,5,0,1,2,,1,,macrolide,Erythromycin,272,,83,,,,0.306,,
+,3286,,,1,B,India,,,0,2019,Sutcliffe,10.1186/s12879-019-4254-2,2016,12,2017,7,,0.166,5,0,1,2,,1,,SXT,SXT,112,,73,,,,0.652,,
+,3286,,,1,B,India,,,0,2019,Sutcliffe,10.1186/s12879-019-4254-2,2016,12,2017,7,,0.166,5,0,1,2,,1,,chloramphenicol,Chloramphenicol,272,,1,,,,0.004,,
+,3286,,,1,B,India,,,0,2019,Sutcliffe,10.1186/s12879-019-4254-2,2016,12,2017,7,,0.166,5,0,1,2,,1,,vancomycin,Vancomycin,272,,59,,,,0.218,,
+,3299,,,1,B,Japan,,,0,2019,Takeuchi,10.1016/j.jiac.2019.02.007,2012,10,2015,3,,0,1,0,1,3,,1,,penicillin,Penicillin,18,4,,,,0.222222222,,,
+,3299,,,1,B,Japan,,,0,2019,Takeuchi,10.1016/j.jiac.2019.02.007,2012,10,2015,3,,0,1,0,1,3,,1,,macrolide,Clarithromycin,18,,11,,,,0.611111111,,
+,3299,,,1,B,Japan,,,0,2019,Takeuchi,10.1016/j.jiac.2019.02.007,2012,10,2015,3,,0,1,0,1,3,,1,,levofloxacin,Levofloxacin,18,0,,,18,0,,,1
+,3306,,,1,B,Ethiopia,Hawassa,,0,2019,Haile,10.1186/s13104-0194376-z,2018,3,2018,5,,0,6,0,1,1,,1,,tetracycline,Tetracycline,68,45,29,16,23,0.661764706,0.426470588,0.235294118,
+,3306,,,1,B,Ethiopia,Hawassa,,0,2019,Haile,10.1186/s13104-0194376-z,2018,3,2018,5,,0,6,0,1,1,,1,,macrolide,Erythromycin,68,10,3,7,58,0.147058824,0.044117647,0.102941177,
+,3306,,,1,B,Ethiopia,Hawassa,,0,2019,Haile,10.1186/s13104-0194376-z,2018,3,2018,5,,0,6,0,1,1,,1,,lincosamides,Clindamycin,68,3,3,0,65,0.044117647,0.044117647,0,
+,3306,,,1,B,Ethiopia,Hawassa,,0,2019,Haile,10.1186/s13104-0194376-z,2018,3,2018,5,,0,6,0,1,1,,1,,SXT,SXT,68,56,44,12,12,0.823529412,0.647058824,0.176470588,
+,3306,,,1,B,Ethiopia,Hawassa,,0,2019,Haile,10.1186/s13104-0194376-z,2018,3,2018,5,,0,6,0,1,1,,1,,chloramphenicol,Chloramphenicol,68,6,6,,62,0.088235294,0.088235294,,
+,3306,,,1,B,Ethiopia,Hawassa,,0,2019,Haile,10.1186/s13104-0194376-z,2018,3,2018,5,,0,6,0,1,1,,1,,penicillin,Oxacillin,68,33,,,35,0.485294118,,,
+,3317,,,1,B,Ethiopia,,,0,2019,Wada,10.1186/s13104-019-4330-0,2016,9,2016,12,,0,13,0,1,1,,1,,penicillin,Oxacillin,311,88,88,0,223,0.282958199,0.283,0,0.717
+,3317,,,1,B,Ethiopia,,,0,2019,Wada,10.1186/s13104-019-4330-0,2016,9,2016,12,,0,13,0,1,1,,1,,tetracycline,Tetracycline,311,161,152,9,150,0.517684888,0.489,0.029,0.482
+,3317,,,1,B,Ethiopia,,,0,2019,Wada,10.1186/s13104-019-4330-0,2016,9,2016,12,,0,13,0,1,1,,1,,SXT,SXT,311,156,141,15,155,0.501607717,0.453,0.048,0.498
+,3317,,,1,B,Ethiopia,,,0,2019,Wada,10.1186/s13104-019-4330-0,2016,9,2016,12,,0,13,0,1,1,,1,,chloramphenicol,Chloramphenicol,311,39,39,0,272,0.125401929,0.125,0,0.875
+,3317,,,1,B,Ethiopia,,,0,2019,Wada,10.1186/s13104-019-4330-0,2016,9,2016,12,,0,13,0,1,1,,1,,macrolide,Erythromycin,311,59,53,6,252,0.189710611,0.17,0.019,0.81
+,3321,,,1,B,China,Taiwan,,0,2019,Lee,10.1016/j.jmii.2019.04.006,2010,1,2016,12,,0,18,1,2,1,2,1,,penicillin,Penicillin,46,43,,,,0.934782609,,,
+,3339,,,1,B,South Africa,,,0,2019,Manenzhe,10.3389/fmicb.2019.00610,2012,5,2014,5,,0,1,0,1,1,2,1,,penicillin,Penicillin,661,119,,,,0.180030257,,,
+,3339,,,1,B,South Africa,,,0,2019,Manenzhe,10.3389/fmicb.2019.00610,2012,5,2014,5,,0,1,0,1,1,2,1,,macrolide,Erythromycin,661,110,,,,0.166414523,,,
+,3339,,,1,B,South Africa,,,0,2019,Manenzhe,10.3389/fmicb.2019.00610,2012,5,2014,5,,0,1,0,1,1,2,1,,SXT,SXT,661,299,,,,0.452344932,,,
+,3341,A,Kiberia 2009,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2009,,2009,,,0,5,0,1,3,,1,,penicillin,Penicillin,499,399,12,387,100,0.799599198,0.024048096,0.775551102,0.200400802
+,3341,A,Kiberia 2009,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2009,,2009,,,0,5,0,1,3,,1,,chloramphenicol,Chloramphenicol,499,9,9,,499,0.018036072,0.018036072,0,1
+,3341,A,Kiberia 2009,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2009,,2009,,,0,5,0,1,3,,1,,levofloxacin,Levofloxacin,499,0,0,0,499,0,0,0,1
+,3341,A,Kiberia 2009,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2009,,2009,,,0,5,0,1,3,,1,,macrolide,Erythromycin,499,9,8,1,490,0.018036072,0.016032064,0.002004008,0.981963928
+,3341,A,Kiberia 2009,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2009,,2009,,,0,5,0,1,3,,1,,3gen_cephalosporin,Ceftriaxone,499,0,0,0,499,0,0,0,1
+,3341,A,Kiberia 2009,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2009,,2009,,,0,5,0,1,3,,1,,tetracycline,Tetracycline,499,98,85,13,401,0.196392786,0.170340681,0.026052104,0.803607214
+,3341,A,Kiberia 2009,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2009,,2009,,,0,5,0,1,3,,1,,SXT,SXT,499,484,430,54,15,0.96993988,0.861723447,0.108216433,0.03006012
+,3341,A,Kiberia 2009,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2009,,2009,,,0,5,0,1,3,,1,,lincosamides,Clindamycin,499,1,1,0,498,0.002004008,0.002004008,0,0.997995992
+,3341,B,Kiberia 2013,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2013,,2013,,,0,5,0,1,3,,1,,penicillin,Penicillin,445,345,12,333,100,0.775280899,0.026966292,0.748314607,0.224719101
+,3341,B,Kiberia 2013,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2013,,2013,,,0,5,0,1,3,,1,,chloramphenicol,Chloramphenicol,445,14,14,,431,0.031460674,0.031460674,0,0.968539326
+,3341,B,Kiberia 2013,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2013,,2013,,,0,5,0,1,3,,1,,levofloxacin,Levofloxacin,445,0,0,0,455,0,0,0,1.02247191
+,3341,B,Kiberia 2013,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2013,,2013,,,0,5,0,1,3,,1,,macrolide,Erythromycin,445,17,17,0,428,0.038202247,0.038202247,0,0.961797753
+,3341,B,Kiberia 2013,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2013,,2013,,,0,5,0,1,3,,1,,3gen_cephalosporin,Ceftriaxone,445,7,0,7,438,0.015730337,0,0.015730337,0.984269663
+,3341,B,Kiberia 2013,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2013,,2013,,,0,5,0,1,3,,1,,tetracycline,Tetracycline,445,68,57,11,377,0.152808989,0.128089888,0.024719101,0.847191011
+,3341,B,Kiberia 2013,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2013,,2013,,,0,5,0,1,3,,1,,SXT,SXT,445,428,401,27,17,0.961797753,0.901123596,0.060674157,0.038202247
+,3341,B,Kiberia 2013,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2013,,2013,,,0,5,0,1,3,,1,,lincosamides,Clindamycin,445,12,12,0,433,0.026966292,0.026966292,0,0.973033708
+,3341,C,Lwak 2009,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2009,,2009,,,0,5,0,1,3,,1,,penicillin,Penicillin,163,136,3,133,27,0.834355828,0.018404908,0.81595092,0.165644172
+,3341,C,Lwak 2009,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2009,,2009,,,0,5,0,1,3,,1,,chloramphenicol,Chloramphenicol,157,4,4,,153,0.025477707,0.025477707,0,0.974522293
+,3341,C,Lwak 2009,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2009,,2009,,,0,5,0,1,3,,1,,levofloxacin,Levofloxacin,157,0,0,0,157,0,0,0,1
+,3341,C,Lwak 2009,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2009,,2009,,,0,5,0,1,3,,1,,macrolide,Erythromycin,163,1,1,0,162,0.006134969,0.006134969,0,0.993865031
+,3341,C,Lwak 2009,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2009,,2009,,,0,5,0,1,3,,1,,3gen_cephalosporin,Ceftriaxone,163,0,0,0,163,0,0,0,1
+,3341,C,Lwak 2009,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2009,,2009,,,0,5,0,1,3,,1,,tetracycline,Tetracycline,163,32,30,2,131,0.196319018,0.18404908,0.012269939,0.803680982
+,3341,C,Lwak 2009,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2009,,2009,,,0,5,0,1,3,,1,,SXT,SXT,161,161,152,9,0,1,0.944099379,0.055900621,0
+,3341,C,Lwak 2009,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2009,,2009,,,0,5,0,1,3,,1,,lincosamides,Clindamycin,163,0,0,0,163,0,0,0,1
+,3341,D,Lwak 2013,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2013,,2013,,,0,5,0,1,3,,1,,penicillin,Penicillin,181,150,0,150,31,0.828729282,0,0.828729282,0.171270718
+,3341,D,Lwak 2013,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2013,,2013,,,0,5,0,1,3,,1,,chloramphenicol,Chloramphenicol,181,6,6,0,175,0.033149171,0.033149171,0,0.966850829
+,3341,D,Lwak 2013,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2013,,2013,,,0,5,0,1,3,,1,,levofloxacin,Levofloxacin,181,0,0,0,181,0,0,0,1
+,3341,D,Lwak 2013,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2013,,2013,,,0,5,0,1,3,,1,,macrolide,Erythromycin,181,0,0,0,181,0,0,0,1
+,3341,D,Lwak 2013,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2013,,2013,,,0,5,0,1,3,,1,,3gen_cephalosporin,Ceftriaxone,181,0,0,0,181,0,0,0,1
+,3341,D,Lwak 2013,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2013,,2013,,,0,5,0,1,3,,1,,tetracycline,Tetracycline,181,38,21,17,143,0.209944751,0.116022099,0.093922652,0.790055249
+,3341,D,Lwak 2013,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2013,,2013,,,0,5,0,1,3,,1,,SXT,SXT,181,181,171,10,0,1,0.944751381,0.055248619,0
+,3341,D,Lwak 2013,1,B,Kenya,,,0,2019,Kobayashi,10.1093/cid/ciz285,2013,,2013,,,0,5,0,1,3,,1,,lincosamides,Clindamycin,181,0,0,0,181,0,0,0,1
+,3358,A,2010-2011,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2010,,2011,,,0,5,0,1,1,,2,,penicillin,Oxacillin,90,,18,,,,0.2,,
+,3358,A,2010-2011,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2010,,2011,,,0,5,0,1,1,,2,,macrolide,Erythromycin,89,,24,,,,0.27,,
+,3358,A,2010-2011,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2010,,2011,,,0,5,0,1,1,,2,,lincosamides,Clindamycin,88,,22,,,,0.25,,
+,3358,A,2010-2011,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2010,,2011,,,0,5,0,1,1,,2,,SXT,SXT,88,,56,,,,0.64,,
+,3358,B,2012,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2012,,2012,,,0,5,0,1,1,,2,,penicillin,Oxacillin,138,,37,,,,0.268,,
+,3358,B,2012,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2012,,2012,,,0,5,0,1,1,,2,,macrolide,Erythromycin,138,,35,,,,0.254,,
+,3358,B,2012,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2012,,2012,,,0,5,0,1,1,,2,,lincosamides,Clindamycin,138,,30,,,,0.221,,
+,3358,B,2012,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2012,,2012,,,0,5,0,1,1,,2,,SXT,SXT,138,,82,,,,0.594,,
+,3358,C,2013-2014,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2013,,2014,,,0,5,0,1,1,,2,,penicillin,Oxacillin,115,,42,,,,0.365,,
+,3358,C,2013-2014,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2013,,2014,,,0,5,0,1,1,,2,,macrolide,Erythromycin,115,,38,,,,0.33,,
+,3358,C,2013-2014,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2013,,2014,,,0,5,0,1,1,,2,,lincosamides,Clindamycin,115,,31,,,,0.27,,
+,3358,C,2013-2014,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2013,,2014,,,0,5,0,1,1,,2,,SXT,SXT,115,,59,,,,0.513,,
+,3358,C,2013-2014,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2013,,2014,,,0,5,0,1,1,,2,,tetracycline,Tetracycline,,,,,,,,,
+,3358,C,2013-2014,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2013,,2014,,,0,5,0,1,1,,2,,chloramphenicol,Chloramphenicol,105,,2,,,,0.019,,
+,3358,D,2015,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2015,,2015,,,0,5,0,1,1,,2,,penicillin,Oxacillin,63,,26,,,,0.41,,
+,3358,D,2015,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2015,,2015,,,0,5,0,1,1,,2,,macrolide,Erythromycin,63,,30,,,,0.48,,
+,3358,D,2015,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2015,,2015,,,0,5,0,1,1,,2,,lincosamides,Clindamycin,63,,24,,,,0.38,,
+,3358,D,2015,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2015,,2015,,,0,5,0,1,1,,2,,SXT,SXT,63,,33,,,,0.52,,
+,3358,D,2015,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2015,,2015,,,0,5,0,1,1,,2,,tetracycline,Tetracycline,,,,,,,0,,
+,3358,D,2015,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2015,,2015,,,0,5,0,1,1,,2,,chloramphenicol,Chloramphenicol,67,,2,,,,0.03,,
+,3358,E,2016,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2016,,2016,,,0,5,0,1,1,,2,,penicillin,Oxacillin,120,,49,,,,0.408,,
+,3358,E,2016,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2016,,2016,,,0,5,0,1,1,,2,,macrolide,Erythromycin,120,,53,,,,0.442,,
+,3358,E,2016,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2016,,2016,,,0,5,0,1,1,,2,,lincosamides,Clindamycin,120,,47,,,,0.392,,
+,3358,E,2016,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2016,,2016,,,0,5,0,1,1,,2,,SXT,SXT,120,,53,,,,0.442,,
+,3358,E,2016,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2016,,2016,,,0,5,0,1,1,,2,,tetracycline,Tetracycline,119,,42,,,,0.353,,
+,3358,E,2016,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2016,,2016,,,0,5,0,1,1,,2,,chloramphenicol,Chloramphenicol,121,,7,,,,0.058,,
+,3358,F,2017,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2017,,2017,,,0,5,0,1,1,,2,,penicillin,Oxacillin,106,,33,,,,0.311,,
+,3358,F,2017,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2017,,2017,,,0,5,0,1,1,,2,,macrolide,Erythromycin,106,,38,,,,0.358,,
+,3358,F,2017,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2017,,2017,,,0,5,0,1,1,,2,,lincosamides,Clindamycin,106,,30,,,,0.283,,
+,3358,F,2017,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2017,,2017,,,0,5,0,1,1,,2,,SXT,SXT,106,,44,,,,0.415,,
+,3358,F,2017,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2017,,2017,,,0,5,0,1,1,,2,,tetracycline,Tetracycline,106,,34,,,,0.321,,
+,3358,F,2017,1,B,Russia,Moscow,,0,2019,Mayanskiy,10.1016/j.diagmicrobio.2019.02.010,2017,,2017,,,0,5,0,1,1,,2,,chloramphenicol,Chloramphenicol,111,,1,,,,0.009,,
+,3359,A,2006-2008,1,B,Peru,Lima,,0,2019,Luna-Muschi,10.1017/S0950268819000037,2006,,2008,,,0,18,1,2,2,,1,,penicillin,Penicillin,101,23,22,1,78,0.227722772,0.217821782,0.00990099,0.772277228
+,3359,A,2006-2008,1,B,Peru,Lima,,0,2019,Luna-Muschi,10.1017/S0950268819000037,2006,,2008,,,0,18,1,2,2,,1,,3gen_cephalosporin,Ceftriaxone,101,12,3,9,89,0.118811881,0.02970297,0.089108911,0.881188119
+,3359,A,2006-2008,1,B,Peru,Lima,,0,2019,Luna-Muschi,10.1017/S0950268819000037,2006,,2008,,,0,18,1,2,2,,1,,chloramphenicol,Chloramphenicol,101,12,12,,89,0.118811881,0.118811881,0,0.881188119
+,3359,A,2006-2008,1,B,Peru,Lima,,0,2019,Luna-Muschi,10.1017/S0950268819000037,2006,,2008,,,0,18,1,2,2,,1,,macrolide,Erythromycin,101,25,25,0,76,0.247524753,0.247524753,0,0.752475248
+,3359,B,2009-2011,1,B,Peru,Lima,,0,2019,Luna-Muschi,10.1017/S0950268819000037,2009,,2011,,,0,18,1,2,2,,1,,penicillin,Penicillin,56,7,7,0,49,0.125,0.125,0,0.875
+,3359,B,2009-2011,1,B,Peru,Lima,,0,2019,Luna-Muschi,10.1017/S0950268819000037,2009,,2011,,,0,18,1,2,2,,1,,3gen_cephalosporin,Ceftriaxone,56,8,2,6,48,0.142857143,0.035714286,0.107142857,0.857142857
+,3359,B,2009-2011,1,B,Peru,Lima,,0,2019,Luna-Muschi,10.1017/S0950268819000037,2009,,2011,,,0,18,1,2,2,,1,,chloramphenicol,Chloramphenicol,55,6,6,,49,0.109090909,0.109090909,0,0.890909091
+,3359,B,2009-2011,1,B,Peru,Lima,,0,2019,Luna-Muschi,10.1017/S0950268819000037,2009,,2011,,,0,18,1,2,2,,1,,macrolide,Erythromycin,56,22,21,1,34,0.392857143,0.375,0.017857143,0.607142857
+,3363,,,1,B,Ethiopia,,,0,2019,Negash,10.1093/ofid/ofz029,2016,9,2017,8,,0,15,1,2,1,,1,,penicillin,Penicillin,1,,0,,,,0,,
+,3363,,,1,B,Ethiopia,,,0,2019,Negash,10.1093/ofid/ofz029,2016,9,2017,8,,0,15,1,2,1,,1,,macrolide,Erythromycin,1,,0,,,,0,,
+,3363,,,1,B,Ethiopia,,,0,2019,Negash,10.1093/ofid/ofz029,2016,9,2017,8,,0,15,1,2,1,,1,,tetracycline,Tetracycline,1,,1,,,,1,,
+,3363,,,1,B,Ethiopia,,,0,2019,Negash,10.1093/ofid/ofz029,2016,9,2017,8,,0,15,1,2,1,,1,,SXT,SXT,1,,1,,,,1,,
+,3363,,,1,B,Ethiopia,,,0,2019,Negash,10.1093/ofid/ofz029,2016,9,2017,8,,0,15,1,2,1,,1,,chloramphenicol,Chloramphenicol,1,,0,,,,0,,
+,3401,,,1,B,Malaysia,,,0,2018,Arushothy,10.1016/j.ijid.2018.12.009,2014,5,2017,12,,0,5,1,2,2,,1,,penicillin,Penicillin,245,8,3,5,237,,,,
+,3401,,,1,B,Malaysia,,,0,2018,Arushothy,10.1016/j.ijid.2018.12.009,2014,5,2017,12,,0,5,1,2,2,,1,,3gen_cephalosporin,Ceftriaxone,245,15,6,9,230,,0.022,0.037,0.94
+,3401,,,1,B,Malaysia,,,0,2018,Arushothy,10.1016/j.ijid.2018.12.009,2014,5,2017,12,,0,5,1,2,2,,1,,3gen_cephalosporin,Cefotaxime,245,14,5,9,231,,0.019,0.036,0.941
+,3401,,,1,B,Malaysia,,,0,2018,Arushothy,10.1016/j.ijid.2018.12.009,2014,5,2017,12,,0,5,1,2,2,,1,,SXT,SXT,245,107,88,19,138,,0.359,0.077,0.564
+,3401,,,1,B,Malaysia,,,0,2018,Arushothy,10.1016/j.ijid.2018.12.009,2014,5,2017,12,,0,5,1,2,2,,1,,macrolide,Erythromycin,245,109,105,4,136,,0.429,0.018,0.553
+,3401,,,1,B,Malaysia,,,0,2018,Arushothy,10.1016/j.ijid.2018.12.009,2014,5,2017,12,,0,5,1,2,2,,1,,vancomycin,Vancomycin,245,0,0,0,245,,0,0,1
+,3401,,,1,B,Malaysia,,,0,2018,Arushothy,10.1016/j.ijid.2018.12.009,2014,5,2017,12,,0,5,1,2,2,,1,,tetracycline,Tetracycline,245,109,105,4,136,,0.429,0.018,0.553
+,3411,A,Shanghai,1,B,China,Shanghai,,0,2018,Cai,10.2147/IDR.S183916,2008,1,2017,12,,0,14,1,2,1,2,1,,penicillin,Penicillin,68,29,14,5,,,,,
+,3411,A,Shanghai,1,B,China,Shanghai,,0,2018,Cai,10.2147/IDR.S183916,2008,1,2017,12,,0,14,1,2,1,2,1,,penicillin,Amoxicillin,68,24,4,10,,,,,
+,3411,A,Shanghai,1,B,China,Shanghai,,0,2018,Cai,10.2147/IDR.S183916,2008,1,2017,12,,0,14,1,2,1,2,1,,macrolide,Erythromycin,68,65,65,0,,,,,
+,3411,A,Shanghai,1,B,China,Shanghai,,0,2018,Cai,10.2147/IDR.S183916,2008,1,2017,12,,0,14,1,2,1,2,1,,tetracycline,Tetracycline,68,45,40,5,,,,,
+,3411,A,Shanghai,1,B,China,Shanghai,,0,2018,Cai,10.2147/IDR.S183916,2008,1,2017,12,,0,14,1,2,1,2,1,,chloramphenicol,Chloramphenicol,68,14,9,5,,,,,
+,3411,A,Shanghai,1,B,China,Shanghai,,0,2018,Cai,10.2147/IDR.S183916,2008,1,2017,12,,0,14,1,2,1,2,1,,3gen_cephalosporin,Ceftriaxone,68,16,8,8,,,,,
+,3411,A,Shanghai,1,B,China,Shanghai,,0,2018,Cai,10.2147/IDR.S183916,2008,1,2017,12,,0,14,1,2,1,2,1,,3gen_cephalosporin,Cefotaxime,68,18,8,10,,,,,
+,3411,A,Shanghai,1,B,China,Shanghai,,0,2018,Cai,10.2147/IDR.S183916,2008,1,2017,12,,0,14,1,2,1,2,1,,SXT,SXT,68,52,38,14,,,,,
+,3411,B,Lanzhou,1,B,China,Lanzhou,,0,2018,Cai,10.2147/IDR.S183916,2008,1,2017,12,,0,14,1,2,1,2,1,,penicillin,Penicillin,55,15,12,3,,,,,
+,3411,B,Lanzhou,1,B,China,Lanzhou,,0,2018,Cai,10.2147/IDR.S183916,2008,1,2017,12,,0,14,1,2,1,2,1,,penicillin,Amoxicillin,55,12,3,9,,,,,
+,3411,B,Lanzhou,1,B,China,Lanzhou,,0,2018,Cai,10.2147/IDR.S183916,2008,1,2017,12,,0,14,1,2,1,2,1,,macrolide,Erythromycin,55,54,54,0,,,,,
+,3411,B,Lanzhou,1,B,China,Lanzhou,,0,2018,Cai,10.2147/IDR.S183916,2008,1,2017,12,,0,14,1,2,1,2,1,,tetracycline,Tetracycline,55,50,48,2,,,,,
+,3411,B,Lanzhou,1,B,China,Lanzhou,,0,2018,Cai,10.2147/IDR.S183916,2008,1,2017,12,,0,14,1,2,1,2,1,,chloramphenicol,Chloramphenicol,55,9,6,3,,,,,
+,3411,B,Lanzhou,1,B,China,Lanzhou,,0,2018,Cai,10.2147/IDR.S183916,2008,1,2017,12,,0,14,1,2,1,2,1,,3gen_cephalosporin,Ceftriaxone,55,20,9,11,,,,,
+,3411,B,Lanzhou,1,B,China,Lanzhou,,0,2018,Cai,10.2147/IDR.S183916,2008,1,2017,12,,0,14,1,2,1,2,1,,3gen_cephalosporin,Cefotaxime,55,21,16,5,,,,,
+,3411,B,Lanzhou,1,B,China,Lanzhou,,0,2018,Cai,10.2147/IDR.S183916,2008,1,2017,12,,0,14,1,2,1,2,1,,SXT,SXT,55,46,34,12,,,,,
+,3414,,,1,B,China,Beijing,,0,2019,Shi,10.1080/14760584.2019.1557523,2012,4,2017,3,,0,14,1,2,1,,1,,penicillin,Penicillin,111,22,22,0,89,,,,
+,3414,,,1,B,China,Beijing,,0,2019,Shi,10.1080/14760584.2019.1557523,2012,4,2017,3,,0,14,1,2,1,,1,,3gen_cephalosporin,Ceftriaxone,111,24,4,20,87,,,,
+,3414,,,1,B,China,Beijing,,0,2019,Shi,10.1080/14760584.2019.1557523,2012,4,2017,3,,0,14,1,2,1,,1,,penicillin,Amoxicillin,88,9,0,9,79,,,,
+,3414,,,1,B,China,Beijing,,0,2019,Shi,10.1080/14760584.2019.1557523,2012,4,2017,3,,0,14,1,2,1,,1,,2gen_cephalosporin,Cefuroxime,111,88,84,4,23,,,,
+,3414,,,1,B,China,Beijing,,0,2019,Shi,10.1080/14760584.2019.1557523,2012,4,2017,3,,0,14,1,2,1,,1,,vancomycin,Vancomycin,111,0,0,0,111,,,,
+,3414,,,1,B,China,Beijing,,0,2019,Shi,10.1080/14760584.2019.1557523,2012,4,2017,3,,0,14,1,2,1,,1,,macrolide,Erythromycin,111,110,110,0,1,,,,
+,3414,,,1,B,China,Beijing,,0,2019,Shi,10.1080/14760584.2019.1557523,2012,4,2017,3,,0,14,1,2,1,,1,,levofloxacin,Levofloxacin,111,0,0,0,111,,,,
+,3414,,,1,B,China,Beijing,,0,2019,Shi,10.1080/14760584.2019.1557523,2012,4,2017,3,,0,14,1,2,1,,1,,chloramphenicol,Chloramphenicol,111,10,10,0,101,,,,
+,3414,,,1,B,China,Beijing,,0,2019,Shi,10.1080/14760584.2019.1557523,2012,4,2017,3,,0,14,1,2,1,,1,,tetracycline,Tetracycline,111,107,107,0,4,,,,
+,3414,,,1,B,China,Beijing,,0,2019,Shi,10.1080/14760584.2019.1557523,2012,4,2017,3,,0,14,1,2,1,,1,,SXT,SXT,111,89,82,7,22,,,,
+,3415,A,pre-PCV,1,B,Israel,"Tel Aviv, Jerusalem",,0,2018,Berger,10.1111/apa.14670,2007,1,2009,12,,0.7,6.1,1,2,2,,1,,penicillin,Penicillin,143,27,4,,,0.19,0.03,,
+,3415,B,post-PCV,1,B,Israel,"Tel Aviv, Jerusalem",,0,2018,Berger,10.1111/apa.14670,2010,1,2015,12,,0.7,6.1,1,2,2,,1,,penicillin,Penicillin,109,8,2,,,0.07,0.02,,
+,3427,,,1,B,Democratic Republic of Congo,,,0,2018,Birindwa,10.1186/s12887-018-1332-3,2014,1,2015,5,,0,5,0,1,2,,2,,SXT,SXT,163,154,154,,,0.947,0.947,0,
+,3427,,,1,B,Democratic Republic of Congo,,,0,2018,Birindwa,10.1186/s12887-018-1332-3,2014,1,2015,5,,0,5,0,1,2,,2,,penicillin,Penicillin,163,131,30,,,0.801,0.184,,
+,3427,,,1,B,Democratic Republic of Congo,,,0,2018,Birindwa,10.1186/s12887-018-1332-3,2014,1,2015,5,,0,5,0,1,2,,2,,tetracycline,Tetracycline,163,129,89,,,0.794,0.546,,
+,3427,,,1,B,Democratic Republic of Congo,,,0,2018,Birindwa,10.1186/s12887-018-1332-3,2014,1,2015,5,,0,5,0,1,2,,2,,penicillin,Ampicillin,163,68,18,,,0.416,0.113,,
+,3427,,,1,B,Democratic Republic of Congo,,,0,2018,Birindwa,10.1186/s12887-018-1332-3,2014,1,2015,5,,0,5,0,1,2,,2,,3gen_cephalosporin,Ceftriaxone,163,61,20,,,0.374,0.125,,
+,3427,,,1,B,Democratic Republic of Congo,,,0,2018,Birindwa,10.1186/s12887-018-1332-3,2014,1,2015,5,,0,5,0,1,2,,2,,macrolide,Erythromycin,163,60,31,,,0.366,0.192,,
+,3427,,,1,B,Democratic Republic of Congo,,,0,2018,Birindwa,10.1186/s12887-018-1332-3,2014,1,2015,5,,0,5,0,1,2,,2,,lincosamides,Clindamycin,163,16,16,,,0.098,0.098,,
